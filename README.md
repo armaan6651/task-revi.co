@@ -5,6 +5,9 @@ For building and running the application you need:
 - [JDK 11.8](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html)
 - [Maven 3](https://maven.apache.org)
 
+## API descriptions
+Postman collection with the whole set of api's is attached with some sample data
+
 ## Running the application locally
 
 ```shell
